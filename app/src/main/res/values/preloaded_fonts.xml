@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/akronim</item>
+        <item>@font/arizonia</item>
+        <item>@font/baloo_da</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/candal</item>
+        <item>@font/coiny</item>
+    </array>
+</resources>

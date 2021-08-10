@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848918762556",
+    "project_id": "callrandompeople",
+    "storage_bucket": "callrandompeople.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848918762556:android:608e2bf6e2dd90692f5f39",
+        "android_client_info": {
+          "package_name": "com.example.callrandompeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848918762556-5do9sps9dhqi3je858evuq5rpla1ftp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callrandompeople",
+            "certificate_hash": "6753166751a9b988166d80a92f72efe4f4bf7063"
+          }
+        },
+        {
+          "client_id": "848918762556-ktv4i591on1eeqkqg4s9livj247h7a32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPty6nBcWvAZXegzHIRpu0jbZd7uQKzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848918762556-ktv4i591on1eeqkqg4s9livj247h7a32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
